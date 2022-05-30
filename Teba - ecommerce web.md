@@ -197,7 +197,7 @@ Obavezno je provjeriti da li je *data* null ili nije. To radimo sa *v-if="data"*
 
 Ako odredjeni View prozor sadrzi vise komponenti koji trebaju informacije sa CMS, a primjerice se te informacije mogu povući sa istog zahtijeva, preporuka je zahtijev slati u krajnjem sadržaocu svih elemenata, pa onda dobijeni objekat proslijediti u komponente uz pomoć *v-bind-a* i *props-a*. Sto je više moguće praktikovati ovaj princip zbog kasnije sveobuhvatne optimizacije aplikacije.
 
-<img src="file:///C:/Users/milop/Documents/sau/dijagram.drawio.png" title="" alt="dijagram.drawio.png" data-align="center">
+<img src="https://github.com/milo123milo/teba/blob/main/dijagram.drawio.png?raw=true" title="" alt="dijagram.drawio.png" data-align="center">
 
 **API Pagination**
 
